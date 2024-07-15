@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK3PCS/eV+4=",
+  "success": true,
+  "projectFilePath": "/Users/nls.pglenn/github/revature/project1/CatApp/CatApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nls.pglenn/.nuget/packages/scottplot/5.0.36/scottplot.5.0.36.nupkg.sha512",
+    "/Users/nls.pglenn/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/Users/nls.pglenn/.nuget/packages/skiasharp.nativeassets.linux.nodependencies/2.88.8/skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "/Users/nls.pglenn/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/Users/nls.pglenn/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
